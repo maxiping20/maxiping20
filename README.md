@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @maxiping20
-- 👀 Interested in GameDev
-- 🌱 Using Unity and C#
-- 💎 Working on private projects
+- 👋 Hi, I’m @maxiping20:
+- 👀 interested in GameDev;
+- 🌱 using Unity and C#;
+- 💎 working on private projects;
 - 📫 You can reach me via email maxiping20@gmail.com
 
 <!---
